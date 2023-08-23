@@ -1,4 +1,4 @@
-#Mendaftar reCAPTCHA API:
+**#Mendaftar reCAPTCHA API:**
 
 Kunjungi situs web reCAPTCHA Google: https://www.google.com/recaptcha
 Klik tombol "Admin Console" untuk membuat proyek baru.
